@@ -1,6 +1,8 @@
 # 这些是我开发的小工具
 
-文件夹  | 说明  | 文件  | 用法
-------------- | ------------- | ------------- | -------------
-1_get_web_text | 下载网页（禁止复制文本的网页）上的文本 | get_web_text.exe | 双击运行
- |  | get_web_text.py | py文件
+## 1_get_web_text
+下载网页（禁止复制文本的网页）上的文本 
+## youtube_mp3_download.py
+从youtube下载音乐并自动转换为mp3格式
+## youtube_video_download.py
+从youtube下载视频
